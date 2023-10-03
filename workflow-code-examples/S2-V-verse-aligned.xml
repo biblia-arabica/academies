@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>S2 aligned to V (S2lb), v2</title>
+				<author></author>
+			</titleStmt>
+			<sourceDesc>
+				<listWit>
+					<witness xml:id="S2">Sinai, Ar. 2 (Gen. 1:1-10)</witness>
+					<witness xml:id="V (S2lb)">Van Dyck (line breaks aligned with S2)</witness>
+				</listWit>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<milestone n="1" type="verse"/>
+			<p xml:id="n1">
+				<app n="1">
+					<lem wit="#S2">إن أول ما</lem>
+					
+				</app>
+				 خلق الله 
+				<app n="2">
+					<lem wit="#S2">السماء</lem>
+					
+				</app>
+				 والأرض
+				<app n="3">
+					<lem wit="#S2"></lem>
+					<milestone n="2" type="verse"/>
+				</app>
+				 وكانت الأرض 
+			</p>
+			
+			<p xml:id="n2">
+				خربة 
+				<app n="4">
+					<lem wit="#S2">خاوية وكانت الظلمة على الغمر</lem>
+					
+				</app>
+				 وروح الله 
+				<app n="5">
+					<lem wit="#S2">ترف</lem>
+					
+				</app>
+				 على  
+			</p>
+			
+			<p xml:id="n3">
+				<app n="6">
+					<lem wit="#S2">الماء</lem>
+					<milestone n="3" type="verse"/>
+				</app>
+				 وقال الله ليكن 
+				<app n="7">
+					<lem wit="#S2">نورا</lem>
+					
+				</app>
+				 فكان 
+				<app n="8">
+					<lem wit="#S2">نورا</lem>
+					<milestone n="4" type="verse"/>
+				</app>
+				 ورأى الله 
+			</p>
+			
+			<p xml:id="n4">
+				<app n="9">
+					<lem wit="#S2">أن النور</lem>
+					
+				</app>
+				 حسن 
+				<app n="10">
+					<lem wit="#S2">وميز</lem>
+					
+				</app>
+				 الله
+				<app n="11">
+					<lem wit="#S2"></lem>
+					
+				</app>
+				 النور 
+				<app n="12">
+					<lem wit="#S2">من الظلمة فدعا</lem>
+					<milestone n="5" type="verse"/>
+				</app>
+			</p>
+			
+			<p xml:id="n5">
+				الله النور 
+				<app n="13">
+					<lem wit="#S2">النهار وسمى الظلمة الليل</lem>
+					
+				</app>
+				 وكان مساء 
+			</p>
+			
+			<p xml:id="n6">
+				وكان صباح 
+				<app n="14">
+					<lem wit="#S2">يوم الأحد</lem>
+					<milestone n="6" type="verse"/>
+				</app>
+				 وقال الله ليكن 
+				<app n="15">
+					<lem wit="#S2">أرقيع</lem>
+					
+				</app>
+			</p>
+			
+			<p xml:id="n7">
+				وسط 
+				<app n="16">
+					<lem wit="#S2">الماء فليحل</lem>
+					
+				</app>
+				 بين 
+				<app n="17">
+					<lem wit="#S2">الماء والماء وصنع</lem>
+					<milestone n="7" type="verse"/>
+				</app>
+				 الله 
+				<app n="18">
+					<lem wit="#S2">الأرقيع</lem>
+					
+				</app>
+			</p>
+			
+			<p xml:id="n8">
+				<app n="19">
+					<lem wit="#S2">وميز</lem>
+					
+				</app>
+				 بين 
+				<app n="20">
+					<lem wit="#S2">الماء الذي اسفل وبين الماء الأعلى من الأرقيع</lem>
+					
+				</app>
+			</p>
+			
+			<p xml:id="n9">
+				<app n="21">
+					<lem wit="#S2">فكان هكذا فدعا</lem>
+					<milestone n="8" type="verse"/>
+				</app>
+				 الله 
+				<app n="22">
+					<lem wit="#S2">الأرقيع السماء</lem>
+					
+				</app>
+				 وكان مساء  
+			</p>
+			
+			<p xml:id="n10">
+				وكان صباح 
+				<app n="23">
+					<lem wit="#S2">يوم الاثنين</lem>
+					<milestone n="9" type="verse"/>
+				</app>
+				 وقال الله 
+				<app n="24">
+					<lem wit="#S2">لجميع الأمياه</lem>
+					
+				</app>
+			</p>
+			
+			<p xml:id="n11">
+				<app n="25">
+					<lem wit="#S2">التى</lem>
+					
+				</app>
+				 تحت السماء 
+				<app n="26">
+					<lem wit="#S2">لتجتمع</lem>
+					
+				</app>
+				 إلى مكان واحد 
+				<app n="27">
+					<lem wit="#S2">ولير في</lem>
+					
+				</app>
+			</p>
+			
+			<p xml:id="n12">
+				<app n="28">
+					<lem wit="#S2">اليبس فكان كذاك فدعا</lem>
+					<milestone n="10" type="verse"/>
+				</app>
+				 الله 
+				<app n="29">
+					<lem wit="#S2">اليبس الأرض وما</lem>
+					
+				</app>
+			</p>
+		</body>
+	</text>
+</TEI>

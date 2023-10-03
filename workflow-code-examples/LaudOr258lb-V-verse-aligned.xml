@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Genesis LaudOr258lb + Vlb</title>
+				<author></author>
+			</titleStmt>
+			<sourceDesc>
+				<listWit>
+					<witness xml:id="LaudOr258lb">Oxford, Bodleian Libraries, Laud Or. 258 (line breaks)</witness>
+					<witness xml:id="Vlb">Van Dyck (line breaks aligned)</witness>
+				</listWit>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			
+			
+			<milestone n="1" type="verse"/>
+			<p xml:id="n2">
+				<app n="2">
+					<lem wit="#LaudOr258lb">بديا</lem>
+					
+				</app>
+				 خلق الله 
+				<app n="3">
+					<lem wit="#LaudOr258lb">السموات</lem>
+					
+				</app>
+				 والأرض
+				<app n="4">
+					<lem wit="#LaudOr258lb"></lem>
+					<milestone n="2" type="verse"/>
+				</app>
+				 وكانت الأرض 
+				<app n="5">
+					<lem wit="#LaudOr258lb">غيرخاويه</lem>
+					
+				</app>
+			</p>
+			
+			<p xml:id="n3">
+				<app n="6">
+					<lem wit="#LaudOr258lb">من غير شيء مهمله غير مصلحه فغير محكمه . وكانت الظلمه على</lem>
+					
+				</app>
+			</p>
+			
+			<p xml:id="n4">
+				<app n="7">
+					<lem wit="#LaudOr258lb">عمر المياه</lem>
+					
+				</app>
+				 . وروح الله 
+				<app n="8">
+					<lem wit="#LaudOr258lb">ترف</lem>
+					
+				</app>
+				 على وجه 
+				<app n="9">
+					<lem wit="#LaudOr258lb">الماء</lem>
+					<milestone n="3" type="verse"/>
+				</app>
+				 . وقال الله 
+				<app n="10">
+					<lem wit="#LaudOr258lb">ليكونن</lem>
+					
+				</app>
+			</p>
+			
+			<p xml:id="n5">
+				<app n="11">
+					<lem wit="#LaudOr258lb">النور وكان النور</lem>
+					<milestone n="4" type="verse"/>
+				</app>
+				 وراى الله النور 
+				<app n="12">
+					<lem wit="#LaudOr258lb">حسنا . وجعل بينه وبين</lem>
+					
+				</app>
+			</p>
+			
+			<p xml:id="n6">
+				<app n="13">
+					<lem wit="#LaudOr258lb">الظلمه فصلا . وسمى الله النور نهارا . وسمى الظلمه ليلا</lem>
+					<milestone n="5" type="verse"/>
+				</app>
+			</p>
+			
+			<p xml:id="n7">
+				وكان 
+				<app n="14">
+					<lem wit="#LaudOr258lb">مسا</lem>
+					
+				</app>
+				 وكان 
+				<app n="15">
+					<lem wit="#LaudOr258lb">صناحا</lem>
+					
+				</app>
+				 يوما واحدا
+				<app n="16">
+					<lem wit="#LaudOr258lb"></lem>
+					<milestone n="6" type="verse"/>
+				</app>
+				 . وقال الله 
+				<app n="17">
+					<lem wit="#LaudOr258lb">ليكونن</lem>
+					
+				</app>
+			</p>
+			
+			<p xml:id="n8">
+				<app n="18">
+					<lem wit="#LaudOr258lb">سقف متوسط بين</lem>
+					
+				</app>
+				 المياه 
+				<app n="19">
+					<lem wit="#LaudOr258lb">ليفصل</lem>
+					
+				</app>
+				 بين 
+				<app n="20">
+					<lem wit="#LaudOr258lb">الما والما . وكان كذلك</lem>
+					<milestone n="7" type="verse"/>
+				</app>
+			</p>
+			
+			<p xml:id="n9">
+				<app n="21">
+					<lem wit="#LaudOr258lb">وجعل سقفا</lem>
+					
+				</app>
+				 وفصل 
+				<app n="22">
+					<lem wit="#LaudOr258lb">به</lem>
+					
+				</app>
+				 بين 
+				<app n="23">
+					<lem wit="#LaudOr258lb">المىاه</lem>
+					
+				</app>
+				 التي تحت 
+				<app n="24">
+					<lem wit="#LaudOr258lb">السقف وىين المىاه</lem>
+					
+				</app>
+				 التي 
+			</p>
+			
+			<p xml:id="n10">
+				<app n="25">
+					<lem wit="#LaudOr258lb">فوقه</lem>
+					
+				</app>
+				 . وكان كذلك 
+				<app n="26">
+					<lem wit="#LaudOr258lb">وسمى الله السقف سما وراى</lem>
+					<milestone n="8" type="verse"/>
+				</app>
+				 الله 
+				<app n="27">
+					<lem wit="#LaudOr258lb">ذلك حسنا</lem>
+					
+				</app>
+			</p>
+		</body>
+	</text>
+</TEI>
