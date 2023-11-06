@@ -3,46 +3,36 @@
         <fileDesc>
             <titleStmt>
                 <title level="a" xml:lang="en">Oxford, Bodleian Library, MS Laud. Or. 25</title>
-                <title level="m" xml:lang="en">MAJLIS: The Transformation of Jewish Literature in Arabic in the Islamicate World</title>
                 <sponsor ref="https://www.uni-muenchen.de">
-                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName xml:lang="de">Ludwig-Maximilians-Universität
-                    München</orgName>) </sponsor>
+                    <orgName>Ludwig Maximilian University of Munich</orgName> (<orgName
+                        xml:lang="de">Ludwig-Maximilians-Universität München</orgName>) </sponsor>
                 <sponsor ref="http://www.naher-osten.uni-muenchen.de">
-                    <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName xml:lang="de">Institut für den Nahen und Mittleren
-                        Osten</orgName>) </sponsor>
-                <funder ref="https://erc.europa.eu/">
-                    <orgName>ERC: European Research Council</orgName> (<orgName xml:lang="de">Europäischer Forschungsrat</orgName>) </funder>
+                    <orgName>Institute of Near and Middle Eastern Studies</orgName> (<orgName
+                        xml:lang="de">Institut für den Nahen und Mittleren Osten</orgName>) </sponsor>
                 <principal ref="#rvollandt">Ronny Vollandt</principal>
-                <editor xml:id="rvollandt" role="general" ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
+                <editor xml:id="rvollandt" role="general"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/professoren/ronny_vollandt/index.html                         http://orcid.org/0000-0002-1702-2981                         https://viaf.org/viaf/309581349">
                     <persName>Ronny Vollandt</persName>
                     <date from="2021" to="2026">2021-2026</date>
                 </editor>
-                <editor xml:id="gschwarb" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gregor_schwarb/index.html                         http://orcid.org/0000-0002-9090-1878                         https://viaf.org/viaf/90488472">
-                    <persName>Gregor Schwarb</persName>
-                    <date from="2021" to="2026">2021-2026</date>
-                </editor>
-                <editor xml:id="ngibson" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
+                <editor xml:id="ngibson" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
                     <persName>Nathan P. Gibson</persName>
                     <date from="2021" to="2026">2021-2026</date>
                 </editor>
-                <editor xml:id="mmoliere" role="contributor" ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
+                <editor xml:id="mmoliere" role="contributor"
+                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/maximilian_de_moliere/index.html                         https://orcid.org/0000-0002-2168-8655                         http://viaf.org/viaf/65156495392717561393">
                     <persName>Maximilian de Molière</persName>
                     <date from="2021" to="2026">2021-2026</date>
                 </editor>
                 <editor role="creator" ref="#mmoliere">Maximilian de Molière</editor>
-                <respStmt>
-                    <resp>Srophé app design and development by</resp>
-                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wsalesky">Winona Salesky</name>
-                </respStmt><editor role="creator" ref="">admin</editor>
             </titleStmt>
             <publicationStmt>
-                <authority>
-                    <ref target="https://jalit.org">jalit.org – Jewish-Arabic Literature</ref>
-                </authority>
-                <idno type="URI">https://jalit.org/manuscript/OxfordLaufOr258/tei</idno>
+                <authority> </authority>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
-                        <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.</p>
+                        <p>Distributed under a Creative Commons Attribution 4.0 International (CC BY
+                            4.0) License.</p>
                     </licence>
                 </availability>
             </publicationStmt>
@@ -51,7 +41,9 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc status="unpublished">
-            <change who="#admin" when="2023-10-13T16:12:42.556Z">Created entry from existing notes.</change><change who="#" when=""/>
+            <change who="#mmoliere" when="2023-10-13">Created entry from existing
+                notes.</change>
+            <change who="#mmoliere" when="2023-11-06">Modified title statement.</change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -60,203 +52,215 @@
                 <msDesc xml:id="ms-OxfordLaufOr258">
                     <msIdentifier>
                         <country>Great Britain</country>
-                        <settlement/>
-                        <repository/>
-                        <collection/>
-                        <idno>Oxford, Bodleian Library, MS Laud. Or. 25</idno>
+                        <settlement>Oxford</settlement>
+                        <repository>Bodleian Library</repository>
+                        <collection>Laud. Or.</collection>
+                        <idno>M25</idno>
                         <altIdentifier type="old">
                             <idno>A 147</idno>
                         </altIdentifier>
                         <altIdentifier type="Ktiv">
                             <idno/>
                         </altIdentifier>
-                        
-                        
-                        <msName/>
                     </msIdentifier>
-                    <msContents><msItem class="" xml:id="item-11">
-      <locus from="1r" to="9v"/>
-      <title cert="" ref="" xml:lang="">Introduction</title>
-      <author cert="" ref=""/>
-      <textLang mainLang="" otherLangs=""/>
-      <incipit>
-         <locus from="" to=""/>
-         <quote/>
-      </incipit>
-      <explicit>
-         <locus from="" to=""/>
-         <quote/>
-      </explicit>
-      <note/>
-   </msItem><msItem class="" xml:id="item-12">
-      <locus from="10v" to="18v"/>
-      <title cert="" ref="" xml:lang="">Introduction to Genesis</title>
-      <author cert="" ref=""/>
-      <textLang mainLang="" otherLangs=""/>
-      <incipit>
-         <locus from="" to=""/>
-         <quote/>
-      </incipit>
-      <explicit>
-         <locus from="" to=""/>
-         <quote/>
-      </explicit>
-      <note/>
-   </msItem><msItem class="" xml:id="item-13">
-      <locus from="19v" to="30r"/>
-      <title cert="" ref="" xml:lang="">summary of chapters</title>
-      <author cert="" ref=""/>
-      <textLang mainLang="" otherLangs=""/>
-      <incipit>
-         <locus from="" to=""/>
-         <quote/>
-      </incipit>
-      <explicit>
-         <locus from="" to=""/>
-         <quote/>
-      </explicit>
-      <note/>
-   </msItem><msItem class="" xml:id="item-14">
-      <locus from="30v" to="115v"/>
-      <title cert="" ref="" xml:lang="">translation</title>
-      <author cert="" ref=""/>
-      <textLang mainLang="" otherLangs=""/>
-      <incipit>
-         <locus from="" to=""/>
-         <quote/>
-      </incipit>
-      <explicit>
-         <locus from="" to=""/>
-         <quote/>
-      </explicit>
-      <note/>
-   </msItem><msItem class="" xml:id="item-15">
-      <locus from="116v" to="118r"/>
-      <title cert="" ref="" xml:lang="">introduction to Exodus</title>
-      <author cert="" ref=""/>
-      <textLang mainLang="" otherLangs=""/>
-      <incipit>
-         <locus from="" to=""/>
-         <quote/>
-      </incipit>
-      <explicit>
-         <locus from="" to=""/>
-         <quote/>
-      </explicit>
-      <note/>
-   </msItem><msItem class="" xml:id="item-16">
-      <locus from="118r" to="123v"/>
-      <title cert="" ref="" xml:lang="">summary of chapters</title>
-      <author cert="" ref=""/>
-      <textLang mainLang="" otherLangs=""/>
-      <incipit>
-         <locus from="" to=""/>
-         <quote/>
-      </incipit>
-      <explicit>
-         <locus from="" to=""/>
-         <quote/>
-      </explicit>
-      <note/>
-   </msItem><msItem class="" xml:id="item-17">
-      <locus from="124v" to="199v"/>
-      <title cert="" ref="" xml:lang="">translation</title>
-      <author cert="" ref=""/>
-      <textLang mainLang="" otherLangs=""/>
-      <incipit>
-         <locus from="" to=""/>
-         <quote/>
-      </incipit>
-      <explicit>
-         <locus from="" to=""/>
-         <quote/>
-      </explicit>
-      <note/>
-   </msItem><msItem class="" xml:id="item-18">
-      <locus from="200r" to="201v"/>
-      <title cert="" ref="" xml:lang="">introduction to Leviticus</title>
-      <author cert="" ref=""/>
-      <textLang mainLang="" otherLangs=""/>
-      <incipit>
-         <locus from="" to=""/>
-         <quote/>
-      </incipit>
-      <explicit>
-         <locus from="" to=""/>
-         <quote/>
-      </explicit>
-      <note/>
-   </msItem><msItem class="" xml:id="item-19">
-      <locus from="201v" to="206r"/>
-      <title cert="" ref="" xml:lang="">summary of chapters</title>
-      <author cert="" ref=""/>
-      <textLang mainLang="" otherLangs=""/>
-      <incipit>
-         <locus from="" to=""/>
-         <quote/>
-      </incipit>
-      <explicit>
-         <locus from="" to=""/>
-         <quote/>
-      </explicit>
-      <note/>
-   </msItem><msItem class="" xml:id="item-110">
-      <locus from="206v" to="254r"/>
-      <title cert="" ref="" xml:lang="">translation</title>
-      <author cert="" ref=""/>
-      <textLang mainLang="" otherLangs=""/>
-      <incipit>
-         <locus from="" to=""/>
-         <quote/>
-      </incipit>
-      <explicit>
-         <locus from="" to=""/>
-         <quote/>
-      </explicit>
-      <note/>
-   </msItem><msItem class="" xml:id="item-111">
-      <locus from="254v" to="260v"/>
-      <title cert="" ref="" xml:lang="">summary of chapters for Numbers</title>
-      <author cert="" ref=""/>
-      <textLang mainLang="" otherLangs=""/>
-      <incipit>
-         <locus from="" to=""/>
-         <quote/>
-      </incipit>
-      <explicit>
-         <locus from="" to=""/>
-         <quote/>
-      </explicit>
-      <note/>
-   </msItem><msItem class="" xml:id="item-112">
-      <locus from="261v" to="331v"/>
-      <title cert="" ref="" xml:lang="">translation</title>
-      <author cert="" ref=""/>
-      <textLang mainLang="" otherLangs=""/>
-      <incipit>
-         <locus from="" to=""/>
-         <quote/>
-      </incipit>
-      <explicit>
-         <locus from="" to=""/>
-         <quote/>
-      </explicit>
-      <note/>
-   </msItem><msItem class="" xml:id="item-113">
-      <locus from="332v" to="337r"/>
-      <title cert="" ref="" xml:lang="">summary of chapters for Deuteronomy</title>
-      <author cert="" ref=""/>
-      <textLang mainLang="" otherLangs=""/>
-      <incipit>
-         <locus from="" to=""/>
-         <quote/>
-      </incipit>
-      <explicit>
-         <locus from="" to=""/>
-         <quote/>
-      </explicit>
-      <note/>
-   </msItem>
+                    <msContents>
+                        <msItem class="" xml:id="item-11">
+                            <locus from="1r" to="9v"/>
+                            <title cert="" ref="" xml:lang="">Introduction</title>
+                            <author cert="" ref=""/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem>
+                        <msItem class="" xml:id="item-12">
+                            <locus from="10v" to="18v"/>
+                            <title cert="" ref="" xml:lang="">Introduction to Genesis</title>
+                            <author cert="" ref=""/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem>
+                        <msItem class="" xml:id="item-13">
+                            <locus from="19v" to="30r"/>
+                            <title cert="" ref="" xml:lang="">summary of chapters</title>
+                            <author cert="" ref=""/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem>
+                        <msItem class="" xml:id="item-14">
+                            <locus from="30v" to="115v"/>
+                            <title cert="" ref="" xml:lang="">translation</title>
+                            <author cert="" ref=""/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem>
+                        <msItem class="" xml:id="item-15">
+                            <locus from="116v" to="118r"/>
+                            <title cert="" ref="" xml:lang="">introduction to Exodus</title>
+                            <author cert="" ref=""/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem>
+                        <msItem class="" xml:id="item-16">
+                            <locus from="118r" to="123v"/>
+                            <title cert="" ref="" xml:lang="">summary of chapters</title>
+                            <author cert="" ref=""/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem>
+                        <msItem class="" xml:id="item-17">
+                            <locus from="124v" to="199v"/>
+                            <title cert="" ref="" xml:lang="">translation</title>
+                            <author cert="" ref=""/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem>
+                        <msItem class="" xml:id="item-18">
+                            <locus from="200r" to="201v"/>
+                            <title cert="" ref="" xml:lang="">introduction to Leviticus</title>
+                            <author cert="" ref=""/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem>
+                        <msItem class="" xml:id="item-19">
+                            <locus from="201v" to="206r"/>
+                            <title cert="" ref="" xml:lang="">summary of chapters</title>
+                            <author cert="" ref=""/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem>
+                        <msItem class="" xml:id="item-110">
+                            <locus from="206v" to="254r"/>
+                            <title cert="" ref="" xml:lang="">translation</title>
+                            <author cert="" ref=""/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem>
+                        <msItem class="" xml:id="item-111">
+                            <locus from="254v" to="260v"/>
+                            <title cert="" ref="" xml:lang="">summary of chapters for
+                                Numbers</title>
+                            <author cert="" ref=""/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem>
+                        <msItem class="" xml:id="item-112">
+                            <locus from="261v" to="331v"/>
+                            <title cert="" ref="" xml:lang="">translation</title>
+                            <author cert="" ref=""/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem>
+                        <msItem class="" xml:id="item-113">
+                            <locus from="332v" to="337r"/>
+                            <title cert="" ref="" xml:lang="">summary of chapters for
+                                Deuteronomy</title>
+                            <author cert="" ref=""/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus from="" to=""/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem>
                         <summary>Hexaplaric kephalaia</summary>
                         <msItem class="" xml:id="item-114">
                             <locus from="337v" to="356v"/>
@@ -303,7 +307,9 @@
                                     <formula>5</formula>
                                     <unit/>
                                     <catchwords>Signatures at the end of quires</catchwords>
-                                    <note>The quire order is indicated by signatures in the form of spelled-out numbers on at the end of each folio. Foliation in rūmī numerals.</note>
+                                    <note>The quire order is indicated by signatures in the form of
+                                        spelled-out numbers on at the end of each folio. Foliation
+                                        in rūmī numerals.</note>
                                 </collation>
                                 <condition>
                                     <note>First folios are missing.</note>
@@ -339,7 +345,8 @@
                             </handNote>
                         </handDesc>
                         <scriptDesc>
-                            <scriptNote xml:lang="arabic" script="naskh" style="" rend="calligraphic">
+                            <scriptNote xml:lang="arabic" script="naskh" style=""
+                                rend="calligraphic">
                                 <note/>
                             </scriptNote>
                         </scriptDesc>
@@ -412,7 +419,10 @@
                             <persName ref="" role=""/>
                             <quote xml:lang=""/>
                             <stamp/>
-                            <note>The codex was presented to Laud by Cyrillus Lucari, Bishop of Constantinople. Fol. ii has a note by Cyrillus; see Henry Octavius Coxe, Catalogus codicum manuscriptorum qui in collegiis auslique (Oxford: E Typographeo Academico, 1973), xxvii.</note>
+                            <note>The codex was presented to Laud by Cyrillus Lucari, Bishop of
+                                Constantinople. Fol. ii has a note by Cyrillus; see Henry Octavius
+                                Coxe, Catalogus codicum manuscriptorum qui in collegiis auslique
+                                (Oxford: E Typographeo Academico, 1973), xxvii.</note>
                         </acquisition>
                     </history>
                     <additional>
