@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Genesis 1:1-10</title>
+				<author></author>
+			</titleStmt>
+			<sourceDesc>
+				<listWit>
+					<witness xml:id="S2">Sinai, Ar. 2</witness>
+					<witness xml:id="LaudOr258">Oxford, Bodleian Libraries, Laud Or. 258</witness>
+				</listWit>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="ar" style="direction: rtl; unicode-bidi: embed">
+		<body xml:lang="ar" style="direction: rtl; unicode-bidi: embed">
+			<milestone type="lera-segment" xml:id="lera-0"/>
+			<p xml:id="n1">
+				<app n="1">
+					<lem wit="#S2">إن أول ما</lem>
+					<rdg wit="#LaudOr258">بديا</rdg>
+				</app>
+				 خلق الله 
+				<app n="2">
+					<lem wit="#S2">السماء</lem>
+					<rdg wit="#LaudOr258">السموات</rdg>
+				</app>
+				  والأرض
+			</p>
+			<milestone type="lera-segment" xml:id="lera-1"/>
+			<p xml:id="n2">
+				وكانت الأرض 
+				<app n="3">
+					<lem wit="#S2">خربة خاوية</lem>
+					<rdg wit="#LaudOr258">غيرخاويه من غير شيء مهمله غير مصلحه فغير محكمه</rdg>
+				</app>
+				 وكانت 
+				<app n="4">
+					<lem wit="#S2">الظلمة</lem>
+					<rdg wit="#LaudOr258">الظلمه</rdg>
+				</app>
+				 على 
+				<app n="5">
+					<lem wit="#S2">الغمر</lem>
+					<rdg wit="#LaudOr258">عمر المياه</rdg>
+				</app>
+				  وروح الله ترف  على
+				<app n="6">
+					<lem wit="#S2"></lem>
+					<rdg wit="#LaudOr258">وجه</rdg>
+				</app>
+				 الماء
+			</p>
+			<milestone type="lera-segment" xml:id="lera-2"/>
+			<p xml:id="n3">
+				وقال الله 
+				<app n="7">
+					<lem wit="#S2">ليكن نورا  فكان نورا</lem>
+					<rdg wit="#LaudOr258">ليكونن النور وكان النور</rdg>
+				</app>
+			</p>
+			<milestone type="lera-segment" xml:id="lera-3"/>
+			<p xml:id="n4">
+				ورأى الله 
+				<app n="8">
+					<lem wit="#S2">أن</lem>
+					<rdg wit="#LaudOr258"></rdg>
+				</app>
+				 النور  
+				<app n="9">
+					<lem wit="#S2">حسن وميز  الله النور من الظلمة</lem>
+					<rdg wit="#LaudOr258">حسنا . وجعل بينه وبين الظلمه فصلا</rdg>
+				</app>
+			</p>
+			<milestone type="lera-segment" xml:id="lera-4"/>
+			<p xml:id="n5">
+				<app n="10">
+					<lem wit="#S2">فدعا</lem>
+					<rdg wit="#LaudOr258">وسمى</rdg>
+				</app>
+				  الله النور 
+				<app n="11">
+					<lem wit="#S2">النهار</lem>
+					<rdg wit="#LaudOr258">نهارا</rdg>
+				</app>
+				 وسمى 
+				<app n="12">
+					<lem wit="#S2">الظلمة الليل</lem>
+					<rdg wit="#LaudOr258">الظلمه ليلا</rdg>
+				</app>
+				  وكان 
+				<app n="13">
+					<lem wit="#S2">مساء</lem>
+					<rdg wit="#LaudOr258">مسا</rdg>
+				</app>
+				 وكان 
+				<app n="14">
+					<lem wit="#S2">صباح يوم الأحد</lem>
+					<rdg wit="#LaudOr258">صناحا يوما واحدا</rdg>
+				</app>
+			</p>
+			<milestone type="lera-segment" xml:id="lera-5"/>
+			<p xml:id="n6">
+				وقال الله 
+				<app n="15">
+					<lem wit="#S2">ليكن أرقيع  وسط الماء فليحل</lem>
+					<rdg wit="#LaudOr258">ليكونن سقف متوسط بين المياه ليفصل</rdg>
+				</app>
+				  بين 
+				<app n="16">
+					<lem wit="#S2">الماء والماء</lem>
+					<rdg wit="#LaudOr258">الما والما . وكان كذلك</rdg>
+				</app>
+			</p>
+			<milestone type="lera-segment" xml:id="lera-6"/>
+			<p xml:id="n7">
+				<app n="17">
+					<lem wit="#S2">وصنع  الله الأرقيع  وميز</lem>
+					<rdg wit="#LaudOr258">وجعل سقفا وفصل به</rdg>
+				</app>
+				  بين 
+				<app n="18">
+					<lem wit="#S2">الماء الذي اسفل وبين الماء الأعلى من الأرقيع  فكان هكذا</lem>
+					<rdg wit="#LaudOr258">المىاه التي تحت السقف وىين المىاه التي فوقه . وكان كذلك</rdg>
+				</app>
+			</p>
+			<milestone type="lera-segment" xml:id="lera-7"/>
+			<p xml:id="n8">
+				<app n="19">
+					<lem wit="#S2">فدعا</lem>
+					<rdg wit="#LaudOr258">وسمى</rdg>
+				</app>
+				  الله 
+				<app n="20">
+					<lem wit="#S2">الأرقيع السماء  وكان مساء وكان صباح يوم الاثنين</lem>
+					<rdg wit="#LaudOr258">السقف سما وراى  الله ذلك حسنا</rdg>
+				</app>
+			</p>
+			<milestone type="lera-segment" xml:id="lera-8"/>
+			<p xml:id="n9">
+				<app n="21">
+					<lem wit="#S2">وقال الله لجميع الأمياه  التى  تحت السماء لتجتمع  إلى مكان واحد ولير في  اليبس فكان كذاك فدعا</lem>
+					<rdg wit="#LaudOr258"></rdg>
+				</app>
+			</p>
+			<milestone type="lera-segment" xml:id="lera-9"/>
+			<p xml:id="n10">
+				<app n="22">
+					<lem wit="#S2">الله اليبس الأرض وما </lem>
+					<rdg wit="#LaudOr258"></rdg>
+				</app>
+			</p>
+		</body>
+	</text>
+</TEI>

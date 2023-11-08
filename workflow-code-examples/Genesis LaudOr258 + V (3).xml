@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Genesis LaudOr258 + V (3)</title>
+				<author></author>
+			</titleStmt>
+			<sourceDesc>
+				<listWit>
+					<witness xml:id="V">Van Dyck</witness>
+					<witness xml:id="LaudOr258">Oxford, Bodleian Libraries, Laud Or. 258</witness>
+				</listWit>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<milestone type="lera-segment" xml:id="lera-0"/>
+			<p xml:id="n1">
+				<app n="1">
+					<lem wit="#V"></lem>
+					<rdg wit="#LaudOr258">Great Britain Oxford Bodleian Libraries Laud Or. 258 https://www.fihrist.org.uk/catalog/manuscript_11416 Translator&apos;s Preface Al-Ḥārith ibn Sinān Genesis Al-Ḥārith ibn Sinān Single manuscript <note place="" n=""></note> <note place="" n=""></note> <note place="" n=""></note> <note place="" n=""></note> <metamark function="justification"></metamark> <metamark function=""></metamark> <note place="" n=""></note>  <note place="" n=""></note> <note place="" n=""></note> <note place="" n=""></note> <note place="" n=""></note> <note place="" n=""></note> </rdg>
+				</app>
+			</p>
+			<milestone type="lera-segment" xml:id="lera-1"/>
+			<p xml:id="n2">
+				<app n="2">
+					<lem wit="#V">في البدء</lem>
+					<rdg wit="#LaudOr258">بديا</rdg>
+				</app>
+				 خلق الله 
+				<app n="3">
+					<lem wit="#V">السماوات</lem>
+					<rdg wit="#LaudOr258">السموات</rdg>
+				</app>
+				 والأرض.
+			</p>
+			<milestone type="lera-segment" xml:id="lera-2"/>
+			<p xml:id="n3">
+				وكانت الأرض 
+				<app n="4">
+					<lem wit="#V">خربة وخالية</lem>
+					<rdg wit="#LaudOr258">غيرخاويه من غير شيء مهمله غير مصلحه فغير محكمه</rdg>
+				</app>
+				،
+			</p>
+			<milestone type="lera-segment" xml:id="lera-3"/>
+			<p xml:id="n4">
+				<app n="5">
+					<lem wit="#V">وعلى وجه الغمر ظلمة</lem>
+					<rdg wit="#LaudOr258">وكانت الظلمه على عمر المياه</rdg>
+				</app>
+				، وروح الله 
+				<app n="6">
+					<lem wit="#V">يرف</lem>
+					<rdg wit="#LaudOr258">ترف</rdg>
+				</app>
+				 على وجه 
+				<app n="7">
+					<lem wit="#V">المياه</lem>
+					<rdg wit="#LaudOr258">الماء</rdg>
+				</app>
+				.
+			</p>
+			<milestone type="lera-segment" xml:id="lera-4"/>
+			<p xml:id="n5">
+				وقال الله: «
+				<app n="8">
+					<lem wit="#V">ليكن نور</lem>
+					<rdg wit="#LaudOr258">ليكونن النور</rdg>
+				</app>
+				»
+			</p>
+			<milestone type="lera-segment" xml:id="lera-5"/>
+			<p xml:id="n6">
+				، 
+				<app n="9">
+					<lem wit="#V">فكان نور. ورأى</lem>
+					<rdg wit="#LaudOr258">وكان النور وراى</rdg>
+				</app>
+				 الله النور 
+				<app n="10">
+					<lem wit="#V">أنه حسن</lem>
+					<rdg wit="#LaudOr258">حسنا</rdg>
+				</app>
+				.
+			</p>
+			<milestone type="lera-segment" xml:id="lera-6"/>
+			<p xml:id="n7">
+				<app n="11">
+					<lem wit="#V">وفصل الله بين النور والظلمة</lem>
+					<rdg wit="#LaudOr258">وجعل بينه وبين الظلمه فصلا</rdg>
+				</app>
+				.
+			</p>
+			<milestone type="lera-segment" xml:id="lera-7"/>
+			<p xml:id="n8">
+				<app n="12">
+					<lem wit="#V">ودعا</lem>
+					<rdg wit="#LaudOr258">وسمى</rdg>
+				</app>
+				 الله النور نهارا،
+			</p>
+			<milestone type="lera-segment" xml:id="lera-8"/>
+			<p xml:id="n9">
+				<app n="13">
+					<lem wit="#V">والظلمة دعاها</lem>
+					<rdg wit="#LaudOr258">وسمى الظلمه</rdg>
+				</app>
+				 ليلا. وكان 
+				<app n="14">
+					<lem wit="#V">مساء</lem>
+					<rdg wit="#LaudOr258">مسا</rdg>
+				</app>
+				 وكان 
+				<app n="15">
+					<lem wit="#V">صباح</lem>
+					<rdg wit="#LaudOr258">صناحا</rdg>
+				</app>
+				 يوما واحدا.
+			</p>
+			<milestone type="lera-segment" xml:id="lera-9"/>
+			<p xml:id="n10">
+				وقال الله:
+			</p>
+			<milestone type="lera-segment" xml:id="lera-10"/>
+			<p xml:id="n11">
+				«
+				<app n="16">
+					<lem wit="#V">ليكن جلد في وسط</lem>
+					<rdg wit="#LaudOr258">ليكونن سقف متوسط بين</rdg>
+				</app>
+				 المياه.
+			</p>
+			<milestone type="lera-segment" xml:id="lera-11"/>
+			<p xml:id="n12">
+				<app n="17">
+					<lem wit="#V">وليكن فاصلا</lem>
+					<rdg wit="#LaudOr258">ليفصل</rdg>
+				</app>
+				 بين 
+				<app n="18">
+					<lem wit="#V">مياه ومياه</lem>
+					<rdg wit="#LaudOr258">الما والما</rdg>
+				</app>
+				».
+			</p>
+			<milestone type="lera-segment" xml:id="lera-12"/>
+			<p xml:id="n13">
+				<app n="19">
+					<lem wit="#V">فعمل الله الجلد</lem>
+					<rdg wit="#LaudOr258">وكان كذلك وجعل سقفا</rdg>
+				</app>
+				، وفصل
+				<app n="20">
+					<lem wit="#V"></lem>
+					<rdg wit="#LaudOr258">به</rdg>
+				</app>
+				 بين 
+				<app n="21">
+					<lem wit="#V">المياه</lem>
+					<rdg wit="#LaudOr258">المىاه</rdg>
+				</app>
+				 التي تحت 
+				<app n="22">
+					<lem wit="#V">الجلد والمياه التي فوق الجلد</lem>
+					<rdg wit="#LaudOr258">السقف وىين المىاه التي فوقه</rdg>
+				</app>
+				.
+			</p>
+			<milestone type="lera-segment" xml:id="lera-13"/>
+			<p xml:id="n14">
+				وكان كذلك. 
+				<app n="23">
+					<lem wit="#V">ودعا</lem>
+					<rdg wit="#LaudOr258">وسمى</rdg>
+				</app>
+				 الله 
+				<app n="24">
+					<lem wit="#V">الجلد سماء</lem>
+					<rdg wit="#LaudOr258">السقف سما</rdg>
+				</app>
+				.
+			</p>
+			<milestone type="lera-segment" xml:id="lera-14"/>
+			<p xml:id="n15">
+				<app n="25">
+					<lem wit="#V"></lem>
+					<rdg wit="#LaudOr258">وراى الله ذلك حسنا</rdg>
+				</app>
+			</p>
+			<milestone type="lera-segment" xml:id="lera-15"/>
+			<p xml:id="n16">
+				<app n="26">
+					<lem wit="#V">وكان مساء وكان صباح يوما ثانيا.</lem>
+					<rdg wit="#LaudOr258"></rdg>
+				</app>
+			</p>
+			<milestone type="lera-segment" xml:id="lera-16"/>
+			<p xml:id="n17">
+				<app n="27">
+					<lem wit="#V">وقال الله:</lem>
+					<rdg wit="#LaudOr258"></rdg>
+				</app>
+			</p>
+			<milestone type="lera-segment" xml:id="lera-17"/>
+			<p xml:id="n18">
+				<app n="28">
+					<lem wit="#V">«لتجتمع المياه تحت السماء إلى مكان واحد،</lem>
+					<rdg wit="#LaudOr258"></rdg>
+				</app>
+			</p>
+			<milestone type="lera-segment" xml:id="lera-18"/>
+			<p xml:id="n19">
+				<app n="29">
+					<lem wit="#V">ولتظهر اليابسة»</lem>
+					<rdg wit="#LaudOr258"></rdg>
+				</app>
+			</p>
+			<milestone type="lera-segment" xml:id="lera-19"/>
+			<p xml:id="n20">
+				<app n="30">
+					<lem wit="#V">. وكان كذلك. ودعا الله اليابسة أرضا،</lem>
+					<rdg wit="#LaudOr258"></rdg>
+				</app>
+			</p>
+			<milestone type="lera-segment" xml:id="lera-20"/>
+			<p xml:id="n21">
+				<app n="31">
+					<lem wit="#V">ومجتمع المياه دعاه بحارا. ورأى الله ذلك أنه حسن.</lem>
+					<rdg wit="#LaudOr258"></rdg>
+				</app>
+			</p>
+		</body>
+	</text>
+</TEI>
