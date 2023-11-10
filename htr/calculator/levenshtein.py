@@ -1,3 +1,6 @@
+# Run this in the downloaded repository to test the accuracy (Levenshtein distance) 
+# of the HTR transcribed text vs. the manually corrected text.
+
 from Levenshtein import distance
 
 ground_truth_filename = "../transcriptions/OxfordLaudOr258/txt/OxfordLaudOr258_033-034-Unvocalized_manual,_corrected_011-012-transcription-rasm-no-dividers-no-spaces.txt"
