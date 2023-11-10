@@ -64,215 +64,215 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <msItem class="" xml:id="item-11">
-                            <locus from="1r" to="9v"/>
-                            <title cert="" ref="" xml:lang="">Introduction</title>
-                            <author cert="" ref=""/>
-                            <textLang mainLang="" otherLangs=""/>
-                            <incipit>
-                                <locus from="" to=""/>
-                                <quote/>
-                            </incipit>
-                            <explicit>
-                                <locus from="" to=""/>
-                                <quote/>
-                            </explicit>
-                            <note/>
-                        </msItem>
-                        <msItem class="" xml:id="item-12">
-                            <locus from="10v" to="18v"/>
-                            <title cert="" ref="" xml:lang="">Introduction to Genesis</title>
-                            <author cert="" ref=""/>
-                            <textLang mainLang="" otherLangs=""/>
-                            <incipit>
-                                <locus from="" to=""/>
-                                <quote/>
-                            </incipit>
-                            <explicit>
-                                <locus from="" to=""/>
-                                <quote/>
-                            </explicit>
-                            <note/>
-                        </msItem>
-                        <msItem class="" xml:id="item-13">
-                            <locus from="19v" to="30r"/>
-                            <title cert="" ref="" xml:lang="">summary of chapters</title>
-                            <author cert="" ref=""/>
-                            <textLang mainLang="" otherLangs=""/>
-                            <incipit>
-                                <locus from="" to=""/>
-                                <quote/>
-                            </incipit>
-                            <explicit>
-                                <locus from="" to=""/>
-                                <quote/>
-                            </explicit>
-                            <note/>
-                        </msItem>
-                        <msItem class="" xml:id="item-14">
-                            <locus from="30v" to="115v"/>
-                            <title cert="" ref="" xml:lang="">translation</title>
-                            <author cert="" ref=""/>
-                            <textLang mainLang="" otherLangs=""/>
-                            <incipit>
-                                <locus from="" to=""/>
-                                <quote/>
-                            </incipit>
-                            <explicit>
-                                <locus from="" to=""/>
-                                <quote/>
-                            </explicit>
-                            <note/>
-                        </msItem>
-                        <msItem class="" xml:id="item-15">
-                            <locus from="116v" to="118r"/>
-                            <title cert="" ref="" xml:lang="">introduction to Exodus</title>
-                            <author cert="" ref=""/>
-                            <textLang mainLang="" otherLangs=""/>
-                            <incipit>
-                                <locus from="" to=""/>
-                                <quote/>
-                            </incipit>
-                            <explicit>
-                                <locus from="" to=""/>
-                                <quote/>
-                            </explicit>
-                            <note/>
-                        </msItem>
-                        <msItem class="" xml:id="item-16">
-                            <locus from="118r" to="123v"/>
-                            <title cert="" ref="" xml:lang="">summary of chapters</title>
-                            <author cert="" ref=""/>
-                            <textLang mainLang="" otherLangs=""/>
-                            <incipit>
-                                <locus from="" to=""/>
-                                <quote/>
-                            </incipit>
-                            <explicit>
-                                <locus from="" to=""/>
-                                <quote/>
-                            </explicit>
-                            <note/>
-                        </msItem>
-                        <msItem class="" xml:id="item-17">
-                            <locus from="124v" to="199v"/>
-                            <title cert="" ref="" xml:lang="">translation</title>
-                            <author cert="" ref=""/>
-                            <textLang mainLang="" otherLangs=""/>
-                            <incipit>
-                                <locus from="" to=""/>
-                                <quote/>
-                            </incipit>
-                            <explicit>
-                                <locus from="" to=""/>
-                                <quote/>
-                            </explicit>
-                            <note/>
-                        </msItem>
-                        <msItem class="" xml:id="item-18">
-                            <locus from="200r" to="201v"/>
-                            <title cert="" ref="" xml:lang="">introduction to Leviticus</title>
-                            <author cert="" ref=""/>
-                            <textLang mainLang="" otherLangs=""/>
-                            <incipit>
-                                <locus from="" to=""/>
-                                <quote/>
-                            </incipit>
-                            <explicit>
-                                <locus from="" to=""/>
-                                <quote/>
-                            </explicit>
-                            <note/>
-                        </msItem>
-                        <msItem class="" xml:id="item-19">
-                            <locus from="201v" to="206r"/>
-                            <title cert="" ref="" xml:lang="">summary of chapters</title>
-                            <author cert="" ref=""/>
-                            <textLang mainLang="" otherLangs=""/>
-                            <incipit>
-                                <locus from="" to=""/>
-                                <quote/>
-                            </incipit>
-                            <explicit>
-                                <locus from="" to=""/>
-                                <quote/>
-                            </explicit>
-                            <note/>
-                        </msItem>
-                        <msItem class="" xml:id="item-110">
-                            <locus from="206v" to="254r"/>
-                            <title cert="" ref="" xml:lang="">translation</title>
-                            <author cert="" ref=""/>
-                            <textLang mainLang="" otherLangs=""/>
-                            <incipit>
-                                <locus from="" to=""/>
-                                <quote/>
-                            </incipit>
-                            <explicit>
-                                <locus from="" to=""/>
-                                <quote/>
-                            </explicit>
-                            <note/>
-                        </msItem>
-                        <msItem class="" xml:id="item-111">
-                            <locus from="254v" to="260v"/>
-                            <title cert="" ref="" xml:lang="">summary of chapters for
-                                Numbers</title>
-                            <author cert="" ref=""/>
-                            <textLang mainLang="" otherLangs=""/>
-                            <incipit>
-                                <locus from="" to=""/>
-                                <quote/>
-                            </incipit>
-                            <explicit>
-                                <locus from="" to=""/>
-                                <quote/>
-                            </explicit>
-                            <note/>
-                        </msItem>
-                        <msItem class="" xml:id="item-112">
-                            <locus from="261v" to="331v"/>
-                            <title cert="" ref="" xml:lang="">translation</title>
-                            <author cert="" ref=""/>
-                            <textLang mainLang="" otherLangs=""/>
-                            <incipit>
-                                <locus from="" to=""/>
-                                <quote/>
-                            </incipit>
-                            <explicit>
-                                <locus from="" to=""/>
-                                <quote/>
-                            </explicit>
-                            <note/>
-                        </msItem>
-                        <msItem class="" xml:id="item-113">
-                            <locus from="332v" to="337r"/>
-                            <title cert="" ref="" xml:lang="">summary of chapters for
-                                Deuteronomy</title>
-                            <author cert="" ref=""/>
-                            <textLang mainLang="" otherLangs=""/>
-                            <incipit>
-                                <locus from="" to=""/>
-                                <quote/>
-                            </incipit>
-                            <explicit>
-                                <locus from="" to=""/>
-                                <quote/>
-                            </explicit>
-                            <note/>
-                        </msItem>
                         <summary>Hexaplaric kephalaia</summary>
-                        <msItem class="" xml:id="item-114">
-                            <locus from="337v" to="356v"/>
-                            <title xml:lang="" ref="" cert="">translation</title>
-                            <author ref="" cert=""/>
+                        <msItem xml:id="item-11">
+                            <locus from="1r" to="9v"/>
+                            <title xml:lang="">Introduction</title>
+                            <author/>
                             <textLang mainLang="" otherLangs=""/>
                             <incipit>
-                                <locus from="" to=""/>
+                                <locus/>
                                 <quote/>
                             </incipit>
                             <explicit>
-                                <locus from="" to=""/>
+                                <locus/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="item-12">
+                            <locus from="10v" to="18v"/>
+                            <title xml:lang="">Introduction to Genesis</title>
+                            <author/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="item-13">
+                            <locus from="19v" to="30r"/>
+                            <title xml:lang="">summary of chapters</title>
+                            <author/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="item-14">
+                            <locus from="30v" to="115v"/>
+                            <title xml:lang="">translation</title>
+                            <author/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="item-15">
+                            <locus from="116v" to="118r"/>
+                            <title xml:lang="">introduction to Exodus</title>
+                            <author/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="item-16">
+                            <locus from="118r" to="123v"/>
+                            <title xml:lang="">summary of chapters</title>
+                            <author/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="item-17">
+                            <locus from="124v" to="199v"/>
+                            <title xml:lang="">translation</title>
+                            <author/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="item-18">
+                            <locus from="200r" to="201v"/>
+                            <title xml:lang="">introduction to Leviticus</title>
+                            <author/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="item-19">
+                            <locus from="201v" to="206r"/>
+                            <title xml:lang="">summary of chapters</title>
+                            <author/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="item-110">
+                            <locus from="206v" to="254r"/>
+                            <title xml:lang="">translation</title>
+                            <author/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="item-111">
+                            <locus from="254v" to="260v"/>
+                            <title xml:lang="">summary of chapters for
+                                Numbers</title>
+                            <author/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="item-112">
+                            <locus from="261v" to="331v"/>
+                            <title xml:lang="">translation</title>
+                            <author/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="item-113">
+                            <locus from="332v" to="337r"/>
+                            <title xml:lang="">summary of chapters for
+                                Deuteronomy</title>
+                            <author/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus/>
+                                <quote/>
+                            </explicit>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="item-114">
+                            <locus from="337v" to="356v"/>
+                            <title xml:lang="">translation</title>
+                            <author/>
+                            <textLang mainLang="" otherLangs=""/>
+                            <incipit>
+                                <locus/>
+                                <quote/>
+                            </incipit>
+                            <explicit>
+                                <locus/>
                                 <quote/>
                             </explicit>
                             <note/>
@@ -280,12 +280,12 @@
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
-                            <objectType rend="" style="codex">Single manuscript</objectType>
+                            <objectType style="codex">Single manuscript</objectType>
                             <listBibl>
                                 <bibl>
                                     <idno type="manuscript-join"/>
                                     <citedRange unit="folios"/>
-                                    <ptr target=""/>
+                                    <ptr/>
                                 </bibl>
                             </listBibl>
                         </ab>
@@ -302,7 +302,7 @@
                                         <width unit="mm">200</width>
                                     </dimensions>
                                 </extent>
-                                <foliation style="" rendition=""/>
+                                <foliation style=""/>
                                 <collation>
                                     <formula>5</formula>
                                     <unit/>
@@ -313,7 +313,7 @@
                                 </collation>
                                 <condition>
                                     <note>First folios are missing.</note>
-                                    <ab type="writing" rend=""/>
+                                    <ab type="writing"/>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
@@ -321,8 +321,8 @@
                                     <desc/>
                                     <note/>
                                 </summary>
-                                <layout writtenLines="13" columns="" xml:id="layout-1111">
-                                    <locus from="" to=""/>
+                                <layout writtenLines="13" xml:id="layout-1111">
+                                    <locus/>
                                     <dimensions type="written">
                                         <height unit="mm"/>
                                         <width unit="mm"/>
@@ -335,11 +335,11 @@
                         </objectDesc>
                         <handDesc>
                             <summary/>
-                            <handNote medium="" xml:id="hand-111">
-                                <locus from="" to=""/>
-                                <persName ref="" role=""/>
-                                <placeName ref=""/>
-                                <metamark function=""/>
+                            <handNote xml:id="hand-111">
+                                <locus/>
+                                <persName/>
+                                <placeName/>
+                                <metamark/>
                                 <origDate/>
                                 <note/>
                             </handNote>
@@ -361,9 +361,9 @@
                             <list>
                                 <item xml:id="add-1111">
                                     <objectType/>
-                                    <persName ref="" role="mentioned"/>
-                                    <locus from="" to=""/>
-                                    <quote rend="" xml:lang=""/>
+                                    <persName role="mentioned"/>
+                                    <locus/>
+                                    <quote xml:lang=""/>
                                     <ab type="translation"/>
                                     <note/>
                                 </item>
@@ -373,7 +373,7 @@
                             <binding>
                                 <decoNote>
                                     <objectType/>
-                                    <origPlace ref=""/>
+                                    <origPlace/>
                                     <origDate/>
                                     <material/>
                                     <note/>
@@ -383,7 +383,7 @@
                                         <depth unit="mm"/>
                                     </dimensions>
                                 </decoNote>
-                                <condition key=""/>
+                                <condition/>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -395,7 +395,7 @@
                                     <bibl>
                                         <title/>
                                         <citedRange unit="p"/>
-                                        <ptr target=""/>
+                                        <ptr/>
                                     </bibl>
                                 </item>
                             </list>
@@ -405,18 +405,18 @@
                         <summary/>
                         <provenance>
                             <date/>
-                            <placeName ref=""/>
-                            <locus from="" to=""/>
-                            <persName ref="" role=""/>
+                            <placeName/>
+                            <locus/>
+                            <persName/>
                             <quote xml:lang=""/>
                             <stamp/>
                             <note/>
                         </provenance>
                         <acquisition>
                             <date/>
-                            <placeName ref=""/>
-                            <locus from="" to=""/>
-                            <persName ref="" role=""/>
+                            <placeName/>
+                            <locus/>
+                            <persName/>
                             <quote xml:lang=""/>
                             <stamp/>
                             <note>The codex was presented to Laud by Cyrillus Lucari, Bishop of
@@ -431,7 +431,7 @@
                                 <bibl>
                                     <title/>
                                     <publisher/>
-                                    <ptr target=""/>
+                                    <ptr/>
                                 </bibl>
                             </listBibl>
                         </surrogates>
@@ -439,7 +439,7 @@
                             <bibl xml:id="bibl-111">
                                 <title/>
                                 <citedRange unit="p"/>
-                                <ptr target=""/>
+                                <ptr/>
                             </bibl>
                         </listBibl>
                     </additional>
