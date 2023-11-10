@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-10-27T07:27:48.560840+00:00</Created>
+        <LastChange>2022-10-27T07:27:48.560856+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="laud-or-258_675.jpg" imageWidth="2094" imageHeight="2800">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_15da09c8" >
+        <Coords points="1935,980 1935,1012 2084,1003 2084,980 2084,898 1935,898 1935,980"/>
+        <Baseline points="1935,980 2084,980"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_233612d1" >
+        <Coords points="1937,1288 1939,1327 1995,1306 2016,1313 2049,1323 2051,1323 2054,1323 2056,1323 2058,1323 2058,1320 2061,1320 2072,1306 2072,1285 2065,1173 1935,1183 1937,1288"/>
+        <Baseline points="1937,1288 2072,1285"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c0577395" >
+        <Coords points="1946,1449 1944,1472 2049,1477 2054,1451 2054,1381 2021,1360 2019,1360 2016,1360 2014,1360 2012,1360 1946,1379 1946,1449"/>
+        <Baseline points="1946,1449 2054,1451"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

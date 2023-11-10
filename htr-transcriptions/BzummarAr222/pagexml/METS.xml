@@ -1,0 +1,58 @@
+<mets xmlns="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <fileSec>
+    
+    <fileGrp USE="export">
+      
+        <file ID="export1">
+          <FLocat xlink:href="bzummar-ar-222_f_001v.xml"/>
+        </file>
+      
+        <file ID="export2">
+          <FLocat xlink:href="bzummar-ar-222_f_002r.xml"/>
+        </file>
+      
+        <file ID="export3">
+          <FLocat xlink:href="bzummar-ar-222_f_002v.xml"/>
+        </file>
+      
+        <file ID="export4">
+          <FLocat xlink:href="bzummar-ar-222_f_003r.xml"/>
+        </file>
+      
+        <file ID="export5">
+          <FLocat xlink:href="bzummar-ar-222_f_003v.xml"/>
+        </file>
+      
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="document">
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export1"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export2"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export3"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export4"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export5"/>
+      </div>
+      
+    </div>
+  </structMap>
+</mets>
