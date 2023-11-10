@@ -1,0 +1,355 @@
+<mets xmlns="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <fileSec>
+    
+    <fileGrp USE="export">
+      
+        <file ID="export1">
+          <FLocat xlink:href="auc-iryan-moftah_f_003b.xml"/>
+        </file>
+      
+        <file ID="export2">
+          <FLocat xlink:href="auc-iryan-moftah_f_004a.xml"/>
+        </file>
+      
+        <file ID="export3">
+          <FLocat xlink:href="beirut-nest-ac-1-NEST_AC_00001_f_007b.xml"/>
+        </file>
+      
+        <file ID="export4">
+          <FLocat xlink:href="beirut-nest-ac-1-NEST_AC_00001_f_008a.xml"/>
+        </file>
+      
+        <file ID="export5">
+          <FLocat xlink:href="beirut-nest-ac-2-NEST_AC_00002_f_003b.xml"/>
+        </file>
+      
+        <file ID="export6">
+          <FLocat xlink:href="beirut-nest-ac-2-NEST_AC_00002_f_004a.xml"/>
+        </file>
+      
+        <file ID="export7">
+          <FLocat xlink:href="beirut-nest-ac-3-NEST_AC_00003_f_002v.xml"/>
+        </file>
+      
+        <file ID="export8">
+          <FLocat xlink:href="beirut-nest-ac-3-NEST_AC_00003_f_003r.xml"/>
+        </file>
+      
+        <file ID="export9">
+          <FLocat xlink:href="bzummar-ar-222_f_001v.xml"/>
+        </file>
+      
+        <file ID="export10">
+          <FLocat xlink:href="bzummar-ar-222_f_002r.xml"/>
+        </file>
+      
+        <file ID="export11">
+          <FLocat xlink:href="cairo-st-mark-bible-15_f_010b.xml"/>
+        </file>
+      
+        <file ID="export12">
+          <FLocat xlink:href="cairo-st-mark-bible-15_f_011a.xml"/>
+        </file>
+      
+        <file ID="export13">
+          <FLocat xlink:href="cairo-st-mark-bible-17_f_005a.xml"/>
+        </file>
+      
+        <file ID="export14">
+          <FLocat xlink:href="cairo-st-mark-bible-17_f_005b.xml"/>
+        </file>
+      
+        <file ID="export15">
+          <FLocat xlink:href="cairo-st-mark-bible-28_f_005a.xml"/>
+        </file>
+      
+        <file ID="export16">
+          <FLocat xlink:href="cairo-st-mark-bible-28_f_005b.xml"/>
+        </file>
+      
+        <file ID="export17">
+          <FLocat xlink:href="cairo-st-mark-bible-48_f_001a.xml"/>
+        </file>
+      
+        <file ID="export18">
+          <FLocat xlink:href="cairo-st-mark-bible-48_f_001b.xml"/>
+        </file>
+      
+        <file ID="export19">
+          <FLocat xlink:href="cairo-st-mark-bible-183_f_012a.xml"/>
+        </file>
+      
+        <file ID="export20">
+          <FLocat xlink:href="cairo-st-mark-bible-183_f_012b.xml"/>
+        </file>
+      
+        <file ID="export21">
+          <FLocat xlink:href="copenhagen-cod-arab-75_f_-002b.xml"/>
+        </file>
+      
+        <file ID="export22">
+          <FLocat xlink:href="copenhagen-cod-arab-75_f_-003a.xml"/>
+        </file>
+      
+        <file ID="export23">
+          <FLocat xlink:href="florence-orient-77_f_001b.xml"/>
+        </file>
+      
+        <file ID="export24">
+          <FLocat xlink:href="florence-orient-77_f_002a.xml"/>
+        </file>
+      
+        <file ID="export25">
+          <FLocat xlink:href="laud-or-258_072.xml"/>
+        </file>
+      
+        <file ID="export26">
+          <FLocat xlink:href="laud-or-258_073.xml"/>
+        </file>
+      
+        <file ID="export27">
+          <FLocat xlink:href="london-bl-add-11855_f_002b.xml"/>
+        </file>
+      
+        <file ID="export28">
+          <FLocat xlink:href="london-bl-add-11855_f_003a.xml"/>
+        </file>
+      
+        <file ID="export29">
+          <FLocat xlink:href="ms-ar-166_f005.xml"/>
+        </file>
+      
+        <file ID="export30">
+          <FLocat xlink:href="ms-ar-166_f006.xml"/>
+        </file>
+      
+        <file ID="export31">
+          <FLocat xlink:href="sinai-ar-2_f_002r.xml"/>
+        </file>
+      
+        <file ID="export32">
+          <FLocat xlink:href="sinai-ar-2_f_002v.xml"/>
+        </file>
+      
+        <file ID="export33">
+          <FLocat xlink:href="sinai-ar-3_f_024v.xml"/>
+        </file>
+      
+        <file ID="export34">
+          <FLocat xlink:href="sinai-ar-3_f_025r.xml"/>
+        </file>
+      
+        <file ID="export35">
+          <FLocat xlink:href="sinai-ar-10_f_008r.xml"/>
+        </file>
+      
+        <file ID="export36">
+          <FLocat xlink:href="sinai-ar-10_f_008v.xml"/>
+        </file>
+      
+        <file ID="export37">
+          <FLocat xlink:href="wadi-al-natrun-anba-maqar-3-ABMQ_00003_p_014.xml"/>
+        </file>
+      
+        <file ID="export38">
+          <FLocat xlink:href="wadi-al-natrun-anba-maqar-3-ABMQ_00003_p_015.xml"/>
+        </file>
+      
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="document">
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export1"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export2"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export3"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export4"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export5"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export6"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export7"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export8"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export9"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export10"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export11"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export12"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export13"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export14"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export15"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export16"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export17"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export18"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export19"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export20"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export21"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export22"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export23"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export24"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export25"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export26"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export27"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export28"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export29"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export30"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export31"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export32"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export33"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export34"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export35"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export36"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export37"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export38"/>
+      </div>
+      
+    </div>
+  </structMap>
+</mets>
