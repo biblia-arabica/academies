@@ -16,7 +16,7 @@
                     <date from="2021" to="2026">2021-2026</date>
                 </editor>
                 <editor xml:id="ngibson" role="contributor"
-                    ref="https://www.naher-osten.uni-muenchen.de/personen/wiss_ma/gibson/index.html                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
+                    ref="https://www.uni-frankfurt.de/137634647/Prof__Dr__Nathan_P__Gibson                         http://orcid.org/0000-0003-0786-8075                         https://viaf.org/viaf/59147905242279092527">
                     <persName>Nathan P. Gibson</persName>
                     <date from="2021" to="2026">2021-2026</date>
                 </editor>
@@ -44,6 +44,8 @@
             <change who="#mmoliere" when="2023-10-13">Created from existing notes.</change>
             <change who="#mmoliere" when="2023-11-06">Modified title statement and added
                 titles.</change>
+            <change who="#ngibson" when="2023-11-10">Added transcription from eScriptorium 
+                and removed invalid empty attributes.</change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -73,94 +75,94 @@
                     <msContents>
                         <msItem class="bible" xml:id="item-11">
                             <locus from="2r" to="81r"/>
-                            <title xml:lang="en" ref="" cert="high">Genesis</title>
-                            <author ref="" cert=""/>
+                            <title xml:lang="en" cert="high">Genesis</title>
+                            <author />
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
-                                <locus from="" to=""/>
+                                <locus />
                                 <quote/>
                             </incipit>
                             <explicit>
-                                <locus from="" to=""/>
+                                <locus />
                                 <quote/>
                             </explicit>
                             <note/>
                         </msItem>
                         <msItem class="bible" xml:id="item-12">
                             <locus from="81v" to="141r"/>
-                            <title cert="high" ref="" xml:lang="en">Exodus</title>
+                            <title cert="high" xml:lang="en">Exodus</title>
                             <title cert="high" xml:lang="ar-Latn">Kitāb makhraj banī Isrāʾīl</title>
-                            <author cert="" ref=""/>
+                            <author />
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
-                                <locus from="" to=""/>
+                                <locus />
                                 <quote/>
                             </incipit>
                             <explicit>
-                                <locus from="" to=""/>
+                                <locus />
                                 <quote/>
                             </explicit>
                             <note/>
                         </msItem>
                         <msItem class="bible" xml:id="item-13">
                             <locus from="141v" to="178v"/>
-                            <title cert="high" ref="" xml:lang="en">Leviticus</title>
-                            <author cert="" ref=""/>
+                            <title cert="high" xml:lang="en">Leviticus</title>
+                            <author />
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
-                                <locus from="" to=""/>
+                                <locus />
                                 <quote/>
                             </incipit>
                             <explicit>
-                                <locus from="" to=""/>
+                                <locus />
                                 <quote/>
                             </explicit>
                             <note/>
                         </msItem>
                         <msItem class="bible" xml:id="item-14">
                             <locus from="179r" to="216v"/>
-                            <title cert="high" ref="" xml:lang="en">Numbers</title>
+                            <title cert="high" xml:lang="en">Numbers</title>
                             <title cert="high" xml:lang="ar-Latn">idh amara Allāh bi-ʿadad banī
                                 Isrāʾīl</title>
-                            <author cert="" ref=""/>
+                            <author />
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
-                                <locus from="" to=""/>
+                                <locus />
                                 <quote/>
                             </incipit>
                             <explicit>
-                                <locus from="" to=""/>
+                                <locus />
                                 <quote/>
                             </explicit>
                             <note/>
                         </msItem>
                         <msItem class="bible" xml:id="item-15">
                             <locus from="216v" to="246v"/>
-                            <title cert="high" ref="" xml:lang="en">Deuteronomy</title>
+                            <title cert="high" xml:lang="en">Deuteronomy</title>
                             <title cert="high" xml:lang="ar-Latn">Kitāb al-mathnāh</title>
-                            <author cert="" ref=""/>
+                            <author />
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
-                                <locus from="" to=""/>
+                                <locus />
                                 <quote/>
                             </incipit>
                             <explicit>
-                                <locus from="" to=""/>
+                                <locus />
                                 <quote/>
                             </explicit>
                             <note/>
                         </msItem>
                         <msItem class="bible" xml:id="item-16">
                             <locus from="247r" to="266v"/>
-                            <title cert="high" ref="" xml:lang="en">Daniel</title>
-                            <author cert="" ref=""/>
+                            <title cert="high" xml:lang="en">Daniel</title>
+                            <author />
                             <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
-                                <locus from="" to=""/>
+                                <locus />
                                 <quote/>
                             </incipit>
                             <explicit>
-                                <locus from="" to=""/>
+                                <locus />
                                 <quote/>
                             </explicit>
                             <note/>
@@ -168,12 +170,12 @@
                     </msContents>
                     <physDesc>
                         <ab type="codicological-definition">
-                            <objectType rend="" style="codex">Single manuscript</objectType>
+                            <objectType style="codex">Single manuscript</objectType>
                             <listBibl>
                                 <bibl>
                                     <idno type="manuscript-join"/>
                                     <citedRange unit="folios"/>
-                                    <ptr target=""/>
+                                    <ptr/>
                                 </bibl>
                             </listBibl>
                         </ab>
@@ -190,7 +192,7 @@
                                         <width unit="mm"/>
                                     </dimensions>
                                 </extent>
-                                <foliation style="" rendition=""/>
+                                <foliation style=""/>
                                 <collation>
                                     <formula>5</formula>
                                     <unit/>
@@ -203,7 +205,7 @@
                                 </collation>
                                 <condition>
                                     <note>several subsequent folios are missing</note>
-                                    <ab type="writing" rend=""/>
+                                    <ab type="writing"/>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
@@ -213,7 +215,7 @@
                                         words; evidently unruled, because the mise-en-page and
                                         number of lines vary; </note>
                                 </summary>
-                                <layout writtenLines="15 23" columns="" xml:id="layout-1111"><locus
+                                <layout writtenLines="15 23" xml:id="layout-1111"><locus
                                         from="1" to="266"/><metamark function="justification"
                                         >Other</metamark><metamark function="justification">Extended
                                         letters</metamark>
@@ -227,17 +229,17 @@
                         </objectDesc>
                         <handDesc>
                             <summary/>
-                            <handNote medium="" xml:id="hand-111">
-                                <locus from="" to=""/>
-                                <persName ref="" role=""/>
-                                <placeName ref=""/>
-                                <metamark function=""/>
-                                <origDate when="939/40"/>
+                            <handNote xml:id="hand-111">
+                                <locus />
+                                <persName />
+                                <placeName />
+                                <metamark/>
+                                <origDate notBefore="0939" notAfter="0940"/>
                                 <note/>
                             </handNote>
                         </handDesc>
                         <scriptDesc>
-                            <scriptNote xml:lang="" script="" style="" rend="">
+                            <scriptNote xml:lang="" style="">
                                 <note/>
                             </scriptNote>
                         </scriptDesc>
@@ -253,7 +255,7 @@
                                 <item xml:id="add-1111">
                                     <objectType>Ownership statements</objectType>
                                     <locus from="1r"/>
-                                    <persName ref="" role="mentioned">Solomon, Bishop of the holy Mt
+                                    <persName role="mentioned">Solomon, Bishop of the holy Mt
                                         Sinai</persName>
                                     <quote rend="Arab" xml:lang="ar">بسم الاب والابن وروح القدس اليه
                                         (!) واحد يقول الخاطي صلمون المسما اسقف جبل لله المقدس طور
@@ -313,7 +315,7 @@
                             <binding>
                                 <decoNote>
                                     <objectType/>
-                                    <origPlace ref=""/>
+                                    <origPlace />
                                     <origDate/>
                                     <material/>
                                     <note/>
@@ -323,7 +325,7 @@
                                         <depth unit="mm"/>
                                     </dimensions>
                                 </decoNote>
-                                <condition key=""/>
+                                <condition/>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -335,7 +337,7 @@
                                     <bibl>
                                         <title/>
                                         <citedRange unit="p"/>
-                                        <ptr target=""/>
+                                        <ptr/>
                                     </bibl>
                                 </item>
                             </list>
@@ -345,18 +347,18 @@
                         <summary/>
                         <provenance>
                             <date/>
-                            <placeName ref=""/>
-                            <locus from="" to=""/>
-                            <persName ref="" role=""/>
+                            <placeName />
+                            <locus />
+                            <persName />
                             <quote xml:lang=""/>
                             <stamp/>
                             <note/>
                         </provenance>
                         <acquisition>
                             <date/>
-                            <placeName ref=""/>
-                            <locus from="" to=""/>
-                            <persName ref="" role=""/>
+                            <placeName />
+                            <locus />
+                            <persName />
                             <quote xml:lang=""/>
                             <stamp/>
                             <note/>
@@ -368,7 +370,7 @@
                                 <bibl>
                                     <title/>
                                     <publisher/>
-                                    <ptr target=""/>
+                                    <ptr/>
                                 </bibl>
                             </listBibl>
                         </surrogates>
@@ -376,7 +378,7 @@
                             <bibl xml:id="bibl-111">
                                 <title/>
                                 <citedRange unit="p"/>
-                                <ptr target=""/>
+                                <ptr/>
                             </bibl>
                         </listBibl>
                     </additional>
