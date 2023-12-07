@@ -67,9 +67,9 @@
                         <summary>Hexaplaric kephalaia</summary>
                         <msItem xml:id="item-11">
                             <locus from="1r" to="9v"/>
-                            <title xml:lang="">Introduction</title>
+                            <title xml:lang="en">Introduction</title>
                             <author/>
-                            <textLang mainLang="" otherLangs=""/>
+                            <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus/>
                                 <quote/>
@@ -82,9 +82,9 @@
                         </msItem>
                         <msItem xml:id="item-12">
                             <locus from="10v" to="18v"/>
-                            <title xml:lang="">Introduction to Genesis</title>
+                            <title xml:lang="ar-Latn">Introduction to Genesis</title>
                             <author/>
-                            <textLang mainLang="" otherLangs=""/>
+                            <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus/>
                                 <quote/>
@@ -97,9 +97,9 @@
                         </msItem>
                         <msItem xml:id="item-13">
                             <locus from="19v" to="30r"/>
-                            <title xml:lang="">summary of chapters</title>
+                            <title xml:lang="en">jawāmiʿ takwīn al-khalāʾiq </title>
                             <author/>
-                            <textLang mainLang="" otherLangs=""/>
+                            <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus/>
                                 <quote/>
@@ -112,9 +112,9 @@
                         </msItem>
                         <msItem xml:id="item-14">
                             <locus from="30v" to="115v"/>
-                            <title xml:lang="">translation</title>
+                            <title xml:lang="ar-Latn">takwīn al-khalāʾiq wa-huwwa al-sifr al-awwal min kitāb al-tawrāh</title>
                             <author/>
-                            <textLang mainLang="" otherLangs=""/>
+                            <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus/>
                                 <quote/>
@@ -127,9 +127,9 @@
                         </msItem>
                         <msItem xml:id="item-15">
                             <locus from="116v" to="118r"/>
-                            <title xml:lang="">introduction to Exodus</title>
+                            <title xml:lang="ar-Latn">ʿillat al-sifr al-thānī</title>
                             <author/>
-                            <textLang mainLang="" otherLangs=""/>
+                            <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus/>
                                 <quote/>
@@ -142,9 +142,9 @@
                         </msItem>
                         <msItem xml:id="item-16">
                             <locus from="118r" to="123v"/>
-                            <title xml:lang="">summary of chapters</title>
+                            <title xml:lang="ar-Latn">jawāmiʿ kitāb makhraj banī Isrāʾil wa-huwwa al-sifr al-thānī min al-tawriya ʿalā mā naqalahu al-ithnān wa-sabʿūna</title>
                             <author/>
-                            <textLang mainLang="" otherLangs=""/>
+                            <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus/>
                                 <quote/>
@@ -157,9 +157,9 @@
                         </msItem>
                         <msItem xml:id="item-17">
                             <locus from="124v" to="199v"/>
-                            <title xml:lang="">translation</title>
+                            <title xml:lang="ar-Latn">kitāb makhraj banī Isrāʾil wa-huwwa al-sifr al-thānī min kitāb al-tawriya</title>
                             <author/>
-                            <textLang mainLang="" otherLangs=""/>
+                            <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus/>
                                 <quote/>
@@ -172,9 +172,9 @@
                         </msItem>
                         <msItem xml:id="item-18">
                             <locus from="200r" to="201v"/>
-                            <title xml:lang="">introduction to Leviticus</title>
+                            <title xml:lang="ar-Latn">mukhtaṣar sabab sifr al-thālith min al-tawriya wa-huwwa allādhī yusammā sifr al-kahana</title>
                             <author/>
-                            <textLang mainLang="" otherLangs=""/>
+                            <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus/>
                                 <quote/>
@@ -187,9 +187,9 @@
                         </msItem>
                         <msItem xml:id="item-19">
                             <locus from="201v" to="206r"/>
-                            <title xml:lang="">summary of chapters</title>
+                            <title xml:lang="ar-Latn">jawāmiʿ kitāb al-lāwiyyin wa-huwwa al-sifr al-thālith min al-tawriya</title>
                             <author/>
-                            <textLang mainLang="" otherLangs=""/>
+                            <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus/>
                                 <quote/>
@@ -202,9 +202,9 @@
                         </msItem>
                         <msItem xml:id="item-110">
                             <locus from="206v" to="254r"/>
-                            <title xml:lang="">translation</title>
+                            <title xml:lang="ar-Latn">kitab al-lāwiyyin wa-huwwa al-sifr al-thālith min al-tawriya ʿalā mā naqalahu al-ithnān wa-sabʿūna</title>
                             <author/>
-                            <textLang mainLang="" otherLangs=""/>
+                            <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus/>
                                 <quote/>
@@ -217,10 +217,9 @@
                         </msItem>
                         <msItem xml:id="item-111">
                             <locus from="254v" to="260v"/>
-                            <title xml:lang="">summary of chapters for
-                                Numbers</title>
+                            <title xml:lang="ar-Latn">jawāmiʿ kitāb al-ikhtiṣār wa-huwwa al-sifr al-rābiʿ min al-tawriya</title>
                             <author/>
-                            <textLang mainLang="" otherLangs=""/>
+                            <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus/>
                                 <quote/>
@@ -233,9 +232,9 @@
                         </msItem>
                         <msItem xml:id="item-112">
                             <locus from="261v" to="331v"/>
-                            <title xml:lang="">translation</title>
+                            <title xml:lang="ar-Latn">kitab al-iḥṣā wa-huwwa al-sifr al- rābiʿ min al-tawriya ʿalā mā naqalahu al-ithnān wa-sabʿūna al-ḥakīm min Ṭabariyya</title>
                             <author/>
-                            <textLang mainLang="" otherLangs=""/>
+                            <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus/>
                                 <quote/>
@@ -248,10 +247,9 @@
                         </msItem>
                         <msItem xml:id="item-113">
                             <locus from="332v" to="337r"/>
-                            <title xml:lang="">summary of chapters for
-                                Deuteronomy</title>
+                            <title xml:lang="ar-Latn">jawāmiʿ kitāb al-istithnā wa-huwwa al-sifr al-khāmis min al-tawriya</title>
                             <author/>
-                            <textLang mainLang="" otherLangs=""/>
+                            <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus/>
                                 <quote/>
@@ -264,9 +262,9 @@
                         </msItem>
                         <msItem xml:id="item-114">
                             <locus from="337v" to="356v"/>
-                            <title xml:lang="">translation</title>
+                            <title xml:lang="ar-Latn">kitāb al-istithnā wa-huwwa al-sifr al-khāmis min al-tawriya</title>
                             <author/>
-                            <textLang mainLang="" otherLangs=""/>
+                            <textLang mainLang="ar" otherLangs=""/>
                             <incipit>
                                 <locus/>
                                 <quote/>
