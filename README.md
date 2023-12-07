@@ -6,7 +6,7 @@
 
 For manuscript descriptions, corrected transcriptions, and editions in TEI-XML, see the [tei](tei) directory.
 
-## HTR Models, Transcriptions, Conventions, and Accuracy Calculator
+## HTR Models, Transcriptions, Ground Truth, Conventions, and Accuracy Calculator
 
 For the HTR models trained and the automated transcription of manuscripts using these models, see [htr](htr). 
 
