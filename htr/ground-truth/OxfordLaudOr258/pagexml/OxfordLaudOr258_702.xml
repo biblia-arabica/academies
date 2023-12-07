@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-10-27T07:27:48.901701+00:00</Created>
+        <LastChange>2022-10-27T07:27:48.901717+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="laud-or-258_702.jpg" imageWidth="2078" imageHeight="2800">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_648bfef8" >
+        <Coords points="44,688 42,709 98,714 102,693 107,599 49,595 44,688"/>
+        <Baseline points="44,688 102,693"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>
